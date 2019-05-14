@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:background="#00ccff"
     android:orientation="vertical"
+    android:clickable="true"
     tools:layout_editor_absoluteY="25dp">
 
     <com.example.zhihupaper.widget.RoundImageView
